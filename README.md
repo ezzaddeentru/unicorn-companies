@@ -9,3 +9,4 @@ A unicorn company, or unicorn startup, is a private company with a valuation ove
 - Predict future unicorns based on historical data.
 
 Data source: https://www.cbinsights.com/research-unicorn-companies
+Colab Notebook: https://colab.research.google.com/drive/10WRNx2SUTWrzLjf2zzr2m-ZyqNdY5Tj4?usp=sharing
